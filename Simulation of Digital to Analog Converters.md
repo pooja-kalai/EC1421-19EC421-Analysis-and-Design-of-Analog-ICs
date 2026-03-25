@@ -35,10 +35,14 @@ For v2 and v3  keeping the other values constant.
 
 ## CIRCUIT DIAGRAM:
 ### DAC:
+<img width="652" height="352" alt="image" src="https://github.com/user-attachments/assets/c7fde39d-8fd9-4da6-b659-aeab008acfe6" />
 
 
 ## OUTPUT GRAPH:
 ### DAC:
+<img width="1280" height="1070" alt="image" src="https://github.com/user-attachments/assets/46cf8999-be75-4792-a05f-7bcf7bd278ba" />
+
+<img width="648" height="546" alt="image" src="https://github.com/user-attachments/assets/e75e6858-6b57-41ff-95ff-27b12595fd16" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and digital to analog converter (DAC) circuit is simulated.
